@@ -1,0 +1,25 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+venv/
+env/
+*.env
+.env
+
+# Logs
+*.log
+*.log.*
+
+# Test output
+.coverage
+
+# IDE configurations
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db

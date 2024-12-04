@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: trading_app
+Version: 1.0.0
+Summary: A trading application for live and historical data processing, indicators, and trading strategies.
+Author: Duncan Parker
+Author-email: quantDIY@protonmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.11
+Requires-Dist: websockets
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: pytest
+Requires-Dist: pytest-asyncio
+Requires-Dist: python-dotenv
+Requires-Dist: requests
+Requires-Dist: setuptools

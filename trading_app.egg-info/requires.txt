@@ -1,0 +1,8 @@
+websockets
+pandas
+numpy
+pytest
+pytest-asyncio
+python-dotenv
+requests
+setuptools
